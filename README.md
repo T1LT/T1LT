@@ -5,4 +5,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishantra
 
 React.js | Redux | JavaScript (ES6) | Ruby | Ruby on Rails | Node.js | SQL | PostgreSQL
 
-<a href="https://bit.ly/2PR9PRp"><img align="center" src="https://github-readme-stats.vercel.app/api?username=T1LT&count_private=true&include_all_commits=true&show_icons=true&theme=dark"/></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=T1LT&count_private=true&include_all_commits=true&show_icons=true&theme=dark"/></a>
