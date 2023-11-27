@@ -1,6 +1,6 @@
 # Hello there! 
 
-I'm Nishant, a Software Engineer specializing in Full Stack Web Development. I'm super passionate about working on the Frontend side of Web Development!
+I'm Nishant, a Software Engineer with a drive to understand the theory behind Computer Science and master its application.
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishantracherla/) or reach out to me via <a href="mailto: nishant.racherla@gmail.com">email</a> or if you're just looking around, [here's my portfolio!](https://nishantracherla.com)
 
 React | Next.js | Redux | TypeScript | JavaScript | Tailwind CSS | Node.js | Ruby on Rails | MongoDB | PostgreSQL
